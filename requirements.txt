@@ -1,0 +1,8 @@
+# Copyright (C) 2024 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: Apache-2.0
+
+jsonlines
+tqdm
+torch
+unsloth @ git+https://github.com/unslothai/unsloth.git
